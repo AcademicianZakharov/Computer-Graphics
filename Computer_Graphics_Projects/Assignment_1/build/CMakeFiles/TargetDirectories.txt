@@ -1,0 +1,3 @@
+/mnt/c/Users/gmary/Documents/csc 305/Computer_Graphics_Projects/Assignment_1/build/CMakeFiles/assignment1.dir
+/mnt/c/Users/gmary/Documents/csc 305/Computer_Graphics_Projects/Assignment_1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gmary/Documents/csc 305/Computer_Graphics_Projects/Assignment_1/build/CMakeFiles/rebuild_cache.dir
